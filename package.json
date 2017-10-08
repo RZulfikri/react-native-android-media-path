@@ -13,10 +13,12 @@
   "keywords": [
     "react-native",
     "media",
-    "media loader",
+    "media path",
     "android",
     "video",
-    "image"
+    "image",
+    "path",
+    "real-path"
   ],
   "author": "Rahmat Zulfikri",
   "license": "MIT",
