@@ -1,0 +1,27 @@
+{
+  "name": "react-native-android-media-path",
+  "version": "1.0.0",
+  "description": "React Native Android component to get real media path. You can cobine with camera roll, if you need file path using uri from camera roll.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RZulfikri/react-native-android-media-path.git"
+  },
+  "keywords": [
+    "react-native",
+    "media",
+    "media loader",
+    "android",
+    "video",
+    "image"
+  ],
+  "author": "Rahmat Zulfikri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RZulfikri/react-native-android-media-path/issues"
+  },
+  "homepage": "https://github.com/RZulfikri/react-native-android-media-path#readme"
+}
